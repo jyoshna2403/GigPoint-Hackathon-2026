@@ -1,5 +1,6 @@
-# GigPoint-Hackathon-2026
-My participation in the GigPoint Hackathon 2026
+<p align="center">
+  <img src="gigpoint-banner.png" alt="GigPoint Hackathon 2026" width="100%">
+</p>
 
 # 🚀 GigPoint Hackathon 2026
 
